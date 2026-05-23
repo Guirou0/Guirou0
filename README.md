@@ -98,9 +98,9 @@ Libraries I frequently use:
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=guirou0&show_icons=true&theme=tokyonight&title_color=ff8c00&icon_color=ff8c00&text_color=58a6ff&bg_color=0d1117"/>
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=guirou0&show_icons=true&theme=tokyonight&title_color=ff8c00&icon_color=ff8c00&text_color=58a6ff&bg_color=0d1117"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guirou0&layout=compact&theme=tokyonight&title_color=ff8c00&text_color=58a6ff&bg_color=0d1117"/>
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=guirou0&layout=compact&theme=tokyonight&title_color=ff8c00&text_color=58a6ff&bg_color=0d1117"/>
 
 </p>
 
